@@ -3,9 +3,9 @@ Manifest.txt
 PostInstall.txt
 README.rdoc
 Rakefile
-lib/no-aaaa-list.rb
+lib/no-aaaa-resolvers.rb
 script/console
 script/destroy
 script/generate
 test/test_helper.rb
-test/test_no-aaaa-list.rb
+test/test_no-aaaa-resolvers.rb
